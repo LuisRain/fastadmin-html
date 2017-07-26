@@ -406,7 +406,7 @@ define(['jquery', 'bootstrap', 'backend', 'addtabs', 'adminlte', 'form'], functi
     //此处为FastAdmin的统计代码,正式使用请移除
     var s = document.createElement("script");
     s.type = "text/javascript";
-    s.src = "https://hm.baidu.com/hm.js?411498eda891dfe8091c301a03afe493";
+    s.src = "https://hm.baidu.com/hm.js?b56e3ea9557853cc46f80d8c61c83f81";
     $("head").append(s);
 
     return Controller;
